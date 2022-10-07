@@ -1,2 +1,2 @@
 # supari
-Cross chain yield farming
+Node for cross chain yield farming
