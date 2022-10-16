@@ -7,3 +7,6 @@ Node for cross chain yield farming
   * GH Repo : [gpact](https://github.com/ConsenSys/gpact)
   * YT Video : [Crosschain Applications using Crosschain Protocol Stack & GPACT](https://youtu.be/zORcdGcB3so)
   * Google Slides :[Crosschain Applications using Crosschain Protocol Stack & GPACT](https://drive.google.com/file/d/1G4NTnpOBFyzYsnnjnAlirTC6PNob78TQ/view?usp=sharing)
+
+* Oneledger
+  * GH Repo : [Oneledger protocol](https://github.com/Oneledger/protocol)
